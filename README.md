@@ -5,7 +5,7 @@
 <h1 align="center">🎮 StudiesQuest</h1>
 
 <p align="center">
-  <b>100+ free unblocked games — NO popup ads, NO tracking, NO lag.</b><br>
+  <b>200+ free unblocked games — NO popup ads, NO tracking, NO lag.</b><br>
   Built for Chromebook sign-in page bypass. Just open and play.
   <p>
   SOURCE CODE IS OBFUSCATED BECAUSE SITE CODE IS GETTING STOLEN

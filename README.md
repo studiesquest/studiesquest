@@ -5,7 +5,7 @@
 <h1 align="center">🎮 StudiesQuest</h1>
 
 <p align="center">
-  <b>200+ free unblocked games — NO popup ads, NO tracking, NO lag.</b><br>
+  <b>100+ free unblocked games — NO popup ads, NO tracking, NO lag.</b><br>
   Built for Chromebook sign-in page bypass. Just open and play.
   <p>
   SOURCE CODE IS OBFUSCATED BECAUSE SITE CODE IS GETTING STOLEN
@@ -15,7 +15,7 @@ Some embedded games on this site may display advertisements within their iframes
 </p>
 
 <p align="center">
-  <a href="https://redirecthelper.github.io"><img src="https://img.shields.io/badge/▶%20PLAY%20NOW-00e676?style=for-the-badge&logoColor=white&labelColor=0a1e10" alt="Play Now"></a>
+  <a href="https://studiesquest.github.io"><img src="https://img.shields.io/badge/▶%20PLAY%20NOW-00e676?style=for-the-badge&logoColor=white&labelColor=0a1e10" alt="Play Now"></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@ Some embedded games on this site may display advertisements within their iframes
 > On school Chromebooks, you can access this site **directly from the sign-in screen** — no login needed. GoGuardian and most school safety filters don't apply on the sign-in page.
 
 <p align="center">
-  <a href="https://redirecthelper.github.io">
+  <a href="https://studiesquest.github.io">
     <img src="https://img.shields.io/badge/🔓_CLICK_HERE_TO_PLAY_FROM_SIGN--IN_PAGE-00e676?style=for-the-badge&labelColor=050e08" alt="Sign-In Bypass Link">
   </a>
 </p>
